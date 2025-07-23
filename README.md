@@ -29,7 +29,6 @@ The **GitHub Explorer** is a lightweight, responsive web application that allows
 2. Extract the files if zipped.
 3. Simply open `index.html` in any modern web browser.
 
-> No build process or server is needed — it runs directly in the browser.
 
 ---
 
