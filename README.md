@@ -1,6 +1,6 @@
 ---
 
-## 🔍 GitHub Explorer Web App
+## 🔍 GitHub Explorer App
 
 ### 📌 Overview
 
