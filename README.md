@@ -61,6 +61,5 @@ The **GitHub Explorer** is a lightweight, responsive web application that allows
 
 * Modern browser (Chrome, Firefox, Edge)
 * Internet connection (to fetch GitHub data via API)
-* No additional setup or server environment required
 
 ---
